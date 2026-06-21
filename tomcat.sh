@@ -1,3 +1,6 @@
+
+//Install java in the server before executing the below commands//
+
 amazon-linux-extras install java-openjdk11 -y
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.118/bin/apache-tomcat-9.0.118.tar.gz
 tar -zxvf apache-tomcat-9.0.118.tar.gz
